@@ -9,6 +9,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Raleway", sans-serif;
     margin: 80px 0px;
 }
 
@@ -41,4 +42,21 @@ h2 {
     display: flex;
 	justify-content: center;
     margin-bottom: 15px;
+}
+
+.contents {
+    display: flex;
+    margin-top: 100px;
+}
+
+.ID-photo {
+    text-align: right;
+    width: 50%;
+    margin: 0px 15px;
+}
+
+.info {
+    text-align: left;
+    width: 50%;
+    margin: 0px 15px;
 }
